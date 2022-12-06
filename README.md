@@ -1,4 +1,9 @@
-### Hi there 👋
+### Hi there, I'm Luca 👋
+
+- 🌱 I'm currently studying [**M.S., Computer Science and Engineering**](https://corsi.unibo.it/2cycle/ComputerScienceEngineering) @ UniBo
+- 🎓 B.S., [Computer Science and Engineering](https://corsi.unibo.it/laurea/IngegneriaScienzeInformatiche) @ UniBo
+- 👨‍💻 I'm currently working on a [code plagiarism tool](https://github.com/tassiLuca/code-plagiarism-detector)
+
 
 <!--
 **tassiLuca/tassiLuca** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
