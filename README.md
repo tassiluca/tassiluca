@@ -1,7 +1,5 @@
 ### Hi there, I'm Luca 👋
 
-![hit-counter](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F{tassiluca}1212%2Fhit-counter)
-
 - 🌱 I'm currently studying [**M.S., Computer Science and Engineering**](https://corsi.unibo.it/2cycle/ComputerScienceEngineering) @ UniBo
 - 🎓 B.S., [Computer Science and Engineering](https://corsi.unibo.it/laurea/IngegneriaScienzeInformatiche) @ UniBo
 
