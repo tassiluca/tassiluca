@@ -1,7 +1,7 @@
 ### Hi there, I'm Luca 👋
 
-- 🌱 I'm currently studying [**M.S., Computer Science and Engineering**](https://corsi.unibo.it/2cycle/ComputerScienceEngineering) @ UniBo
-- 🎓 B.S., [Computer Science and Engineering](https://corsi.unibo.it/laurea/IngegneriaScienzeInformatiche) @ UniBo
+- 🌱 Currently pursuing an [**M.S. in Computer Science and Engineering**](https://corsi.unibo.it/2cycle/ComputerScienceEngineering) @ UniBo
+- 🎓 B.S. in [Computer Science and Engineering](https://corsi.unibo.it/laurea/IngegneriaScienzeInformatiche) @ UniBo
 
 
 <!--
